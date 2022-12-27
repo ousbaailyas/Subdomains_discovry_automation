@@ -40,4 +40,3 @@ chmod +x vuln_auto_assesment
 ./vuln_auto_assesment
 ```
 
-# Subdomains_discovry_automation
